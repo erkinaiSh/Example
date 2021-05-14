@@ -10,7 +10,8 @@ Screenshot ;
 ![Screenshot (76)](https://user-images.githubusercontent.com/58220160/118308058-53cbce80-b50d-11eb-9aee-2f3a4063ed6c.png)
 
 
-![Screenshot (77)](https://user-images.githubusercontent.com/58220160/118308070-57f7ec00-b50d-11eb-8f80-5d20a4e3b410.png
+![Screenshot (77)](https://user-images.githubusercontent.com/58220160/118308592-f1bf9900-b50d-11eb-8918-5403ae7f47bd.png)
+
 
 
 ![Screenshot (78)](https://user-images.githubusercontent.com/58220160/118308082-5a5a4600-b50d-11eb-9d03-1364bf11e70b.png)
